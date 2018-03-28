@@ -10,7 +10,7 @@
 
 _Using custom themes requires the Alfred Powerpack._
 
-## Recommanded settings
+## Recommended settings
 
 The screenshot was made with these settings:
 
